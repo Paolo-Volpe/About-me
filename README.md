@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paolo Volpe.
+- 👀 I’m interested in programming, videogames, anime and music.
+- 🎓 I'm studying computer science at Università degli Studi di Napoli Federico II
+- 🌱 I’m currently learning to play the guitar and how to sketch.
+- 📫 How to reach me: paolo.volpe@outlook.com
